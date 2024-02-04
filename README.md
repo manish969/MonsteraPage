@@ -1,9 +1,7 @@
 # project1
 
-![image](https://img.shields.io/badge/project-6-red)
 
-
-## Project-1  [live Link](https://projec6.netlify.app/)
+## Project-1  [live Link](https://portfoliomani.netlify.app/)
 
 **Name:**  MANISH KUMAR
 
